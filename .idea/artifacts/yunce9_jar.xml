@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yunce9:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yunce9</output-path>
+    <root id="archive" name="yunce9.jar">
+      <element id="module-output" name="yunce9" />
+      <element id="extracted-dir" path="D:/mavenjar/com/google/code/gson/gson/2.7/gson-2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/org/apache/spark/spark-sql-kafka-0-10_2.11/2.4.0/spark-sql-kafka-0-10_2.11-2.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/com/typesafe/config/1.3.1/config-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.4.0/spark-streaming-kafka-0-10_2.11-2.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/com/github/nscala-time/nscala-time_2.10/2.0.0/nscala-time_2.10-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hanlp-1.7.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mavenjar/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
