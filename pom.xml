@@ -247,8 +247,7 @@
       <artifactId>lucene-core</artifactId>
       <version>8.1.1</version>
     </dependency>
-
-
+<!-- 
     <dependency> 
       　　<groupId>com.hankcs</groupId> 
       　　<artifactId>hanlp</artifactId> 
@@ -256,7 +255,7 @@
       　　<scope>system</scope> 
       　　<systemPath>${project.basedir}/lib/hanlp-1.7.4.jar</systemPath> 
     </dependency>
-
+ -->
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
